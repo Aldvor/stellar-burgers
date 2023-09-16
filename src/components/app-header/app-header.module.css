@@ -4,7 +4,6 @@
     align-items: center;
     gap: 48px;
     white-space: nowrap;
-    list-style: none;
 }
 
 .link {
@@ -23,3 +22,4 @@
     left: 50%;
     transform: translateX(-50%);
 }
+

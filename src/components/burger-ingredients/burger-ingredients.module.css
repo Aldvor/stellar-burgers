@@ -9,7 +9,6 @@
     overflow-y: auto;
     display: flex;
     flex-direction: column;
-    list-style: none;
 }
 
 .tabs {
@@ -24,12 +23,12 @@
 }
 
 .ingredient {
-    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     row-gap: 8px;
+    position: relative;
     width: 272px;
     height: 208px;
     cursor: pointer;
